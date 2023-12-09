@@ -1,0 +1,15 @@
+{
+    "name": "souzateles/observer",
+    "autoload": {
+        "psr-4": {
+            "Souzateles\\Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Teles",
+            "email": "teleslucas@ymail.com"
+        }
+    ],
+    "require": {}
+}
