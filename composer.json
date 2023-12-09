@@ -2,7 +2,7 @@
     "name": "souzateles/observer",
     "autoload": {
         "psr-4": {
-            "Souzateles\\Observer\\": "src/"
+            "Observer\\": "src/"
         }
     },
     "authors": [
